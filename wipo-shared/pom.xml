@@ -99,7 +99,7 @@
 		<lorem.version>1.2</lorem.version>
 		<janino.version>2.7.8</janino.version>
 		<jsch.version>0.1.55</jsch.version>
-		<esapi.version>2.1.0.1</esapi.version>
+		<esapi.version>2.3.0.0</esapi.version>
 		<xalan.version>2.7.2</xalan.version>
 		<jasper.version>6.7.0</jasper.version>
 		<jasper.font.version>6.0.0</jasper.font.version>
